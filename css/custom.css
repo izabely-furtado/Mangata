@@ -588,7 +588,7 @@ nav.menu-overlay.is-active .menu-bg {
   width: 55px;
   height: 55px;
   margin: 4px 0 0 40px;
-  background: url(../images/radio_on_black_header.gif) 0 0 no-repeat;
+  
 }
 @media (max-width: 768px) {
   #radio {

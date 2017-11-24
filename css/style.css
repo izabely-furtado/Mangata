@@ -178,7 +178,7 @@ body.dotted                {background:url('data:image/png;base64,iVBORw0KGgoAAA
 
 
 
-#radio  		   {float:right;display:block;width:55px;height:55px;margin:16px 53px 0 0;background:url('../images/radio_on_black_header.gif') 0 0 no-repeat;}
+#radio  		   {float:right;display:block;width:55px;height:55px;margin:16px 53px 0 0;}
 /*#radio:hover   {background-position:0 100%!important;}*/
 #radio:hover   {background:url('../images/radio_on_black_header_mouseover.gif') 0 0 no-repeat;}
 
