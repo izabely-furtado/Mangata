@@ -861,7 +861,7 @@ body.mobile.viewing-page-1 section#home .more {
 body.mobile section#story {
   background-position: 160% 0%;
   background-color: black;
-  background-image: url(../img/story-bouche.png);
+  background-image: url(../img/story-bouche-small.png);
   background-repeat: no-repeat;
   background-size: auto 103%;
   height: 100%;

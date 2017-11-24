@@ -10,11 +10,11 @@ var isSimplePage = false;
             var ref = document.referrer;
             if (ref.indexOf('mobile.numero10.ch') !== -1){
             	if($('body.i18n-fr').length >=1){
-            		$('a.logo-n10xtnd').attr('href', "http://mobile.numero10.ch/fr/mobile-home#goxtnd");
-            		$('a.return-btn').attr('href', "http://mobile.numero10.ch/fr/mobile-home#goworks")
+            		$('a.logo-n10xtnd').attr('href', "#goxtnd");
+            		$('a.return-btn').attr('href', "#goworks")
             	}else{
-            		$('a.logo-n10xtnd').attr('href', "http://mobile.numero10.ch/de/mobile-home#goxtnd");
-            		$('a.return-btn').attr('href', "http://mobile.numero10.ch/de/mobile-home#goworks");
+            		$('a.logo-n10xtnd').attr('href', "#goxtnd");
+            		$('a.return-btn').attr('href', "#goworks");
             	}
             }
 

@@ -1,36 +1,4 @@
-/*  ===================================
-   ✰  Webfonts ✰
-   =================================== */
 
-/* @license
- * MyFonts Webfont Build ID 2420707, 2012-11-29T07:43:47-0500
- * 
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are 
- * explicitly restricted from using the Licensed Webfonts(s).
- * 
- * You may obtain a valid license at the URLs below.
- * 
- * Webfont: Geogrotesque Regular by Emtype Foundry
- * URL: http://www.myfonts.com/fonts/emtype/geogrotesque/regular/
- * 
- * Webfont: Geogrotesque Medium Italic by Emtype Foundry
- * URL: http://www.myfonts.com/fonts/emtype/geogrotesque/medium-italic/
- * 
- * Webfont: Geogrotesque SemiBold Italic by Emtype Foundry
- * URL: http://www.myfonts.com/fonts/emtype/geogrotesque/semibold-italic/
- * 
- * 
- * License: http://www.myfonts.com/viewlicense?type=web&buildid=2420707
- * Webfonts copyright: Copyright (c) 2009-2011 by Eduardo Manso. All rights reserved.
- * 
- * © 2012 Bitstream Inc
-*/
-
-@import url("//hello.myfonts.net/count/24efe3");
-@font-face {font-family: 'Geogrotesque-MediumIt';src: url('../webfonts/24EFE3_1_0.eot');src: url('../webfonts/24EFE3_1_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/24EFE3_1_0.woff') format('woff'),url('../webfonts/24EFE3_1_0.ttf') format('truetype');}
-@font-face {font-family: 'Geogrotesque-SemiBoldIt';src: url('../webfonts/24EFE3_2_0.eot');src: url('../webfonts/24EFE3_2_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/24EFE3_2_0.woff') format('woff'),url('../webfonts/24EFE3_2_0.ttf') format('truetype');}
- 
 .Geogrotesque-Regular    {font-family:Geogrotesque-Regular;font-weight:normal;font-style:normal;}
 .Geogrotesque-MediumIt   {font-family:Geogrotesque-MediumIt;font-weight:normal;font-style:normal;}
 .Geogrotesque-SemiBoldIt {font-family:Geogrotesque-SemiBoldIt;font-weight:normal;font-style:normal;}
