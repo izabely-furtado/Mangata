@@ -78,7 +78,7 @@
     height:0;
     padding:7px 10px;
     line-height:100%;
-    background:#fa2458;
+    background:DodgerBlue;
     color:#000;
     -moz-box-sizing: border-box; 
     -webkit-box-sizing: border-box; 
@@ -112,7 +112,7 @@
 
 .list-breadcrumb a,
 .list-breadcrumb a:visited {
-    color:#fa2458;
+    color:DodgerBlue;
 }
 .list-breadcrumb a:hover   {
     color:#fff;
@@ -136,7 +136,7 @@
     top:0;
     left:0;
     padding:5px 10px;
-    background:#fa2458; 
+    background:DodgerBlue; 
     color:#000;
 }
 
@@ -260,7 +260,7 @@
     top:0;
     left:0;
     padding:5px 10px;
-    background:#fa2458; 
+    background:DodgerBlue; 
     color:#000;
     width: 24px;
     height: 19px;

@@ -17,20 +17,20 @@ section .more {
 }
 section a.link {
   display: inline-block;
-  font-family: 'LemonMilk';
+  font-family: fantasy;
   font-size: 25px;
   padding: 3px 12px 5px 12px;
   text-transform: uppercase;
   cursor: pointer;
-  background: #e74275;
+  background: DodgerBlue;
   /* Old browsers */
-  background: -moz-linear-gradient(top, #e74275 0%, #e6362b 100%);
+  background: -moz-linear-gradient(top, DodgerBlue 0%, Blue 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #e74275 0%, #e6362b 100%);
+  background: -webkit-linear-gradient(top, DodgerBlue 0%, Blue 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #e74275 0%, #e6362b 100%);
+  background: linear-gradient(to bottom, DodgerBlue 0%, Blue 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e74275', endColorstr='#e6362b', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='DodgerBlue', endColorstr='Blue', GradientType=0);
   /* IE6-9 */
 }
 @media (max-width: 480px) {
@@ -166,7 +166,7 @@ nav.menu-overlay .right .infos {
 }
 nav.menu-overlay .right h2 {
   font-family: 'Geogrotesque-SemiBold', Arial, Helvetica, sans-serif;
-  color: #fa2458;
+  color: DodgerBlue;
   font-size: 25px;
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -340,7 +340,7 @@ nav.menu-overlay .menu-container ul.onepage-pagination li a {
   display: block;
   color: white;
   font-size: 41px;
-  font-family: 'LemonMilk', Arial, Helvetica, sans-serif;
+  font-family: fantasy, Arial, Helvetica, sans-serif;
   padding: 16px 0;
   padding-left: 36%;
   text-transform: uppercase;
@@ -375,11 +375,11 @@ nav.menu-overlay .menu-container ul.categories li a:active,
 nav.menu-overlay .menu-container ul.onepage-pagination li a:active,
 nav.menu-overlay .menu-container ul.categories li a.is-active,
 nav.menu-overlay .menu-container ul.onepage-pagination li a.is-active {
-  background: -moz-linear-gradient(left, rgba(255, 255, 255, 0.03) 0%, rgba(250, 36, 88, 0.94) 43%, #fa2458 100%);
+  background: -moz-linear-gradient(left, rgba(255, 255, 255, 0.03) 0%, blue 43%, DodgerBlue 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0.03) 0%, rgba(250, 36, 88, 0.94) 43%, #fa2458 100%);
+  background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0.03) 0%, blue 43%, DodgerBlue 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, rgba(255, 255, 255, 0.03) 0%, rgba(250, 36, 88, 0.94) 43%, #fa2458 100%);
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.03) 0%, blue 43%, DodgerBlue 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#08ffffff', endColorstr='@main-color', GradientType=1);
   /* IE6-9 */
@@ -388,11 +388,11 @@ nav.menu-overlay .menu-container ul.onepage-pagination li a.is-active {
 }
 nav.menu-overlay .menu-container ul.categories li.active a,
 nav.menu-overlay .menu-container ul.onepage-pagination li.active a {
-  background: -moz-linear-gradient(left, rgba(255, 255, 255, 0.03) 0%, rgba(250, 36, 88, 0.94) 43%, #fa2458 100%);
+  background: -moz-linear-gradient(left, rgba(255, 255, 255, 0.03) 0%, blue 43%, DodgerBlue 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0.03) 0%, rgba(250, 36, 88, 0.94) 43%, #fa2458 100%);
+  background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0.03) 0%, blue 43%, DodgerBlue 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, rgba(255, 255, 255, 0.03) 0%, rgba(250, 36, 88, 0.94) 43%, #fa2458 100%);
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.03) 0%, blue 43%, DodgerBlue 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#08ffffff', endColorstr='@main-color', GradientType=1);
   /* IE6-9 */
