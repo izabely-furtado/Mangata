@@ -1569,17 +1569,17 @@ body.mobile section#works {
   }
 }
 body.mobile section#works .top {
-  background-position: 294px 0px;
+  background-position: 0px 0px;
   background-image: url(../img/works-lamp-top.png);
   background-repeat: no-repeat;
-  background-size: 267px;
-  height: 205px;
+  /*background-size: 267px;*/
+  height: 265px;
 }
 @media (max-width: 480px) {
   body.mobile section#works .top {
-    background-position: 170px 0px;
-    background-size: 120px;
-    height: 140px;
+    background-position: 0px 0px;
+    /*background-size: 120px;*/
+    height: 200px;
   }
 }
 body.mobile section#works .more {
