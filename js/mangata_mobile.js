@@ -2,7 +2,7 @@
     
     var hasAlreadyRun = false;
 
-    Drupal.behaviors.Numero10 = {
+    Drupal.behaviors.Mangata = {
         attach: function(context, settings) {
 
 

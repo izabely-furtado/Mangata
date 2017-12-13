@@ -4,11 +4,11 @@ var isSimplePage = false;
 
 (function($) {
 	
-	Drupal.behaviors.Numero10 = {
+	Drupal.behaviors.Mangata = {
 		attach: function(context, settings) { 
 
             var ref = document.referrer;
-            if (ref.indexOf('mobile.numero10.ch') !== -1){
+            if (ref.indexOf('mobile.mangata.ch') !== -1){
             	if($('body.i18n-fr').length >=1){
             		$('a.logo-n10xtnd').attr('href', "#goxtnd");
             		$('a.return-btn').attr('href', "#goworks")
