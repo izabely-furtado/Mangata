@@ -789,14 +789,14 @@ section .appendix {
 	z-index:14;
 	top: 380px;
 }
-#consumers_profiles .sticker { left:43%; }
+#consumers_profiles .sticker { top:50%}
 #contact .sticker { 
 	left:34%;
 	top:500px;
 }
 #branding .sticker{
-	top: 360px;
-	left:50%
+	top: 390px;
+	left:45%
 }
 /*#contact .sticker span { background:none repeat scroll 0 0 #a83dff; }*/
 #team .sticker {
