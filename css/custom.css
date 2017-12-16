@@ -128,7 +128,7 @@ a.return-btn {
 a.logo {
   float: left;
   display: block;
-  width: 100px;
+  width: 7%;
   height: 100px;
   text-indent: -999em;
   overflow: hidden;
@@ -142,10 +142,26 @@ a.logo {
     z-index: 22;
   }
 }
-a.logo.logo-n10 {
-  background: url('../images/logo-migracao.png') 0 0 no-repeat;
-  margin-right: 20px;
+a.logo.logo-facebook {
+  background: url('../images/logo-facebook.png') 0 0 no-repeat;
+  margin-right: 0px;
 }
+
+a.logo.logo-linkedin {
+    background: url('../images/logo-linkedin.png') 0 0 no-repeat;
+    margin-right: 0px;
+}
+
+a.logo.logo-telefone {
+    background: url('../images/logo-telefone.png') 0 0 no-repeat;
+    margin-right: 0px;
+}
+
+a.logo.logo-twitter {
+    background: url('../images/logo-twitter.png') 0 0 no-repeat;
+    margin-right: 0px;
+}
+
 a.logo.logo-n10xtnd {
   background: url('../images/logo-vantagens.png') 0 0 no-repeat;
 }
