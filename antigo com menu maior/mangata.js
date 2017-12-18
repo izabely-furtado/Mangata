@@ -7,7 +7,16 @@ var isSimplePage = false;
 	Drupal.behaviors.Mangata = {
 		attach: function(context, settings) { 
 
-            
+            var ref = document.referrer;
+            if (ref.indexOf('mobile.mangata.ch') !== -1){
+            	if($('body.i18n-fr').length >=1){
+            		$('a.logo-n10xtnd').attr('href', "#goxtnd");
+            		$('a.return-btn').attr('href', "#goworks")
+            	}else{
+            		$('a.logo-n10xtnd').attr('href', "#goxtnd");
+            		$('a.return-btn').attr('href', "#goworks");
+            	}
+            }
 
 			MenuOverlay();
 
@@ -153,9 +162,8 @@ var isSimplePage = false;
 									{ p:2000, pos:true, x:0, y:-1700 },
 									{ p:30000, pos:true, x:0, y:-8431 }*/
 									{ p:0, pos:true, x:0, y:90 },
-                                    { p:22772, pos:true, x:0, y:-5337 }
 									//{ p:27772, pos:true, x:0, y:-6587 }
-									//{ p:32772, pos:true, x:0, y:-7837 }
+									{ p:32772, pos:true, x:0, y:-7837 }
 							]
 					},
 					{
@@ -373,44 +381,102 @@ var isSimplePage = false;
 							scene: "#main-scenes",
 							name: ".werkzeug",
 							segments: [
-									{ p:14972, pos:true, x:0 + left_offset, y:4400 },
-									{ p:16117, pos:true, x:150 + left_offset, y:4500 },
-									{ p:18905, pos:true, x:450 + left_offset, y:4500 }
+									{ p:14972, pos:true, x:150 + left_offset, y:4700 },
+									{ p:16117, pos:true, x:150 + left_offset, y:4400 },
+									{ p:18905, pos:true, x:150 + left_offset, y:4500 }
 							]
 					},
 					{
 							scene: "#main-scenes",
 							name: ".anlage",
 							segments: [
-									{ p:16072, pos:true, x:0, y:4200 },
-									{ p:19760, pos:true, x:0, y:4700 }
+									{ p:16072, pos:true, x:80 + left_offset, y:4200 },
+									{ p:19760, pos:true, x:80 + left_offset, y:4700 }
 							]
 					},
 					{
 							scene: "#main-scenes",
 							name: ".blitz",
 							segments: [
-									{ p:17172, pos:true, x:900 + left_offset, y:4770, scale:true, size:[310, 400], alpha:true, opacity:0 },
-									{ p:18172, pos:true, x:900 + left_offset, y:4770, scale:true, size:[310, 400], alpha:false, opacity:1 },
-									{ p:18722, pos:true, x:1000 + left_offset, y:4770, scale:true, size:[250, 323] },
-									{ p:19272, pos:true, x:900 + left_offset, y:4770, scale:true, size:[310, 400] },
-									{ p:19922, pos:true, x:1000 + left_offset, y:4770, scale:true, size:[250, 323] },
-									{ p:20372, pos:true, x:900 + left_offset, y:4770, scale:true, size:[310, 400] },
-									{ p:21022, pos:true, x:1000 + left_offset, y:4770, scale:true, size:[250, 323] }
+									{ p:17172, pos:true, x:975 + left_offset, y:4650, scale:true, size:[251, 240], alpha:true, opacity:0 },
+									{ p:18172, pos:true, x:975 + left_offset, y:4820, scale:true, size:[251, 240], alpha:false, opacity:1 },
+									{ p:18722, pos:true, x:1000 + left_offset, y:4950, scale:true, size:[200, 190] },
+									{ p:19272, pos:true, x:975 + left_offset, y:4980, scale:true, size:[251, 240] },
+									{ p:19922, pos:true, x:1000 + left_offset, y:5080, scale:true, size:[200, 190] },
+									{ p:20372, pos:true, x:975 + left_offset, y:5040, scale:true, size:[251, 240] },
+									{ p:21022, pos:true, x:1000 + left_offset, y:5070, scale:true, size:[200, 190] }
 							]
 					},
 					{
 							scene: "#main-scenes",
 							name: ".typo_brand",
 							segments: [
-									{ p:18272, pos:true, x:505 + left_offset, y:4200 },
-									{ p:18900, pos:true, x:505 + left_offset, y:4880 },
-									{ p:20150, pos:true, x:505 + left_offset, y:5060 },
-									{ p:22300, pos:true, x:505 + left_offset, y:4700 }
+									{ p:18272, pos:true, x:650 + left_offset, y:4200 },
+									{ p:18900, pos:true, x:650 + left_offset, y:4880 },
+									{ p:20150, pos:true, x:650 + left_offset, y:5060 },
+									{ p:22300, pos:true, x:650 + left_offset, y:4700 }
+							]
+					},
+
+					{
+							scene: "#main-scenes",
+							name: ".alien",
+							segments: [
+									{ p:21600, pos:true, x:0 + left_offset, y:6100 },
+									{ p:27600, pos:false, x:0 + left_offset, y:6000 }
+							]
+					},
+					{
+							scene: "#main-scenes",
+							name: ".bomben",
+							segments: [
+									{ p:23000, pos:true, x:550 + left_offset, y:6520 },
+									{ p:29000, pos:false, x:550 + left_offset, y:6620 }
+							]
+					},
+					{
+							scene: "#main-scenes",
+							name: ".lampe",
+							segments: [
+									{ p:21000, pos:true, x:300 + left_offset, y:5850},
+									{ p:28000, pos:false, x:300 + left_offset, y:5550 }
+							]
+					},
+					{
+							scene: "#main-scenes",
+							name: ".laser",
+							segments: [
+									{ p:21000, pos:true, x:810 + left_offset, y:5880 },
+									{ p:28000, pos:false, x:810 + left_offset, y:5680 }
+							]
+					},
+					{
+							scene: "#main-scenes",
+							name: ".tvs",
+							segments: [
+									{ p:22000, pos:true, x:710 + left_offset, y:6180 },
+									{ p:28000, pos:false, x:710 + left_offset, y:6080 }
+							]
+					},
+					{
+							scene: "#main-scenes",
+							name: ".typo_works",
+							segments: [
+									{ p:22000, pos:true, x:430 + left_offset, y:5950 },
+									{ p:27000, pos:false, x:430 + left_offset, y:6100 }
+							]
+					},
+
+					{
+							scene: "#main-scenes",
+							name: ".typo_team",
+							segments: [
+									{ p:27000, pos:true, x:590 + left_offset, y:7700 },
+									{ p:28300, pos:false, x:590 + left_offset, y:7110 },
+									//{ p:29200, pos:true, x:590 + left_offset, y:7110 },
+									//{ p:29800, pos:true, x:590 + left_offset, y:6900 }
 							]
 					}
-
-					
 				];
 
 			// initialize parallax magic
@@ -462,7 +528,7 @@ var isSimplePage = false;
  			// test
  			$("a.logo-n10xtnd").click(function() {
 				$("ul.categories li").removeClass("active");
-				window.scrollTo(0, 5026);
+				window.scrollTo(0, 15926);
 				//	Menu.close();
  				return false;
  			});
@@ -719,11 +785,29 @@ var isSimplePage = false;
     			
     			var hash = window.location.hash;
 				if (hash == '#goxtnd') {
-				    window.scrollTo(0, 5026);
+				    window.scrollTo(0, 15926);
 				    removeHash();
 	 				return false;
 				}
-				
+				if (hash == '#goworks') {
+				    window.scrollTo(0, 24751);
+				    removeHash();
+	 				return false;
+				}				
+    			// google maps fancybox
+    			$(".showmap").click(function() {
+    				$.fancybox.open($("#map"), {
+    					autoSize:false,
+    					width:1200,
+    					height:440,
+    					type: "inline",
+    					wrapCSS: "map-fancy",
+    					beforeLoad: function() {
+    						$(".map-container").html('<iframe width="1170" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Felsenaustrasse+17,+Bern,+Schweiz&amp;aq=0&amp;oq=felsenaustrasse+17,+b&amp;sll=37.0625,-95.677068&amp;sspn=55.323926,114.169922&amp;ie=UTF8&amp;hq=&amp;hnear=Felsenaustrasse+17,+L%C3%A4nggasse-Felsenau,+3004+Bern,+Schweiz&amp;t=m&amp;ll=46.981668,7.421126&amp;spn=0.028112,0.054932&amp;z=14&amp;output=embed"></iframe>');
+    					}
+    				});
+    				return false;
+    			});
     			
     		}
         }

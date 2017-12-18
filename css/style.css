@@ -808,7 +808,9 @@ section .appendix {
 }
 #brand_energy .sticker{
 	top:420px;
+	left:40%;
 }
+
 .z10 { z-index:10; }
 .z11 { z-index:11; }
 .z12 { z-index:12; }
