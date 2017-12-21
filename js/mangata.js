@@ -321,8 +321,8 @@ var isSimplePage = false;
 							scene: "#main-scenes",
 							name: ".typo_branding",
 							segments: [
-									{ p:4000, pos:true, x:500 + left_offset, y:2100 }, 
-									{ p:8100, pos:true, x:540 + left_offset, y:2200 }
+									{ p:4000, pos:true, x:0 + 14.5*left_offset, y:2100 }, 
+									{ p:8100, pos:true, x:40 + 14.5*left_offset, y:2200 }
 							]
 					},	
 					{
