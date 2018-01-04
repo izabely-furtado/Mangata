@@ -641,7 +641,7 @@ nav.menu-overlay.is-active .menu-bg {
   top: 748px;
   position: absolute;
   background-position: -120px bottom;
-  background-image: url(../img/branding-bg.png);
+  background-image: url(../img/branding-bg.svg);
   background-size: 1280px;
   height: 190px;
 }

@@ -1080,7 +1080,7 @@ body.mobile section#branding .planets {
 }
 body.mobile section#branding .bottom {
   background-position: -120px -140px;
-  background-image: url(../img/branding-bg.png);
+  background-image: url(../img/branding-bg.svg);
   background-size: 1166px;
   height: 190px;
 }
