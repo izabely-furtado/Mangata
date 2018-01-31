@@ -45,31 +45,31 @@
      id="namedview8379"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="1"
-     inkscape:cx="398.9272"
-     inkscape:cy="1609.1334"
+     inkscape:zoom="0.30347647"
+     inkscape:cx="-188.05297"
+     inkscape:cy="760.22624"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8377" />
   <rect
-     style="opacity:0.99800002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
+     style="opacity:0.99800002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.18834019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="rect9832"
-     width="819.20001"
+     width="850.34833"
      height="1652.2667"
-     x="6"
+     x="-25.148302"
      y="4" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-02"
-     cx="27.675581"
+     cx="25.675581"
      cy="170.2242"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-20"
-     cx="273.11777"
+     cx="271.11777"
      cy="132.45938"
      rx="1.5"
      ry="1.25" />
@@ -78,19 +78,19 @@
      id="rect48"
      width="290.81512"
      height="55.794106"
-     x="5.2758346"
+     x="3.2758346"
      y="105.60851" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-07"
-     cx="13.013421"
+     cx="11.013421"
      cy="405.84323"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-31"
-     cx="413.5134"
+     cx="411.5134"
      cy="421.84323"
      rx="1.5"
      ry="1.25" />
@@ -99,125 +99,125 @@
      id="rect37"
      width="396.58258"
      height="58.529613"
-     x="4.4134841"
+     x="2.4134841"
      y="214.81888" />
   <rect
      style="fill:#ffffff;stroke-width:2.13167048"
      id="rect37-3"
      width="398.36621"
      height="156.38754"
-     x="4.7134337"
+     x="2.7134337"
      y="285.94717" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="27.971273"
+     x="25.971273"
      y="154.40355"
      id="text32"><tspan
        sodipodi:role="line"
        id="tspan30"
-       x="27.971273"
+       x="25.971273"
        y="154.40355"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact">DIFERENCIAL</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:34.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="30.81069"
+     x="28.810692"
      y="258.41342"
      id="text44"><tspan
        sodipodi:role="line"
        id="tspan42"
-       x="30.81069"
+       x="28.810692"
        y="258.41342"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact">Sem IDEs</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="31.710424"
+     x="29.710426"
      y="313.40549"
      id="text52"><tspan
        sodipodi:role="line"
        id="tspan50"
-       x="31.710424"
+       x="29.710426"
        y="313.40549"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">No nosso processo de migração não </tspan><tspan
        sodipodi:role="line"
-       x="31.710424"
+       x="29.710426"
        y="344.30142"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="tspan7480">são embutidas IDEs, frameworks ou </tspan><tspan
        sodipodi:role="line"
-       x="31.710424"
-       y="375.19733"
+       x="29.710426"
+       y="375.19736"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="tspan7501">bibliotecas no código gerado, o que </tspan><tspan
        sodipodi:role="line"
-       x="31.710424"
+       x="29.710426"
        y="406.09326"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="tspan7482">não cria dependência na sustentação </tspan><tspan
        sodipodi:role="line"
-       x="31.710424"
+       x="29.710426"
        y="436.9892"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="tspan6559">pós conversão.</tspan></text>
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-9"
-     cx="356.98483"
+     cx="354.98483"
      cy="278.71436"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-99"
-     cx="458.88184"
+     cx="456.88184"
      cy="145.42628"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-74"
-     cx="366.66922"
+     cx="364.66922"
      cy="114.68875"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-12"
-     cx="184.43956"
+     cx="182.43956"
      cy="169.57721"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-02-2"
-     cx="846.36334"
+     cx="844.36334"
      cy="292.47778"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-02-1"
-     cx="462.85095"
+     cx="460.85095"
      cy="346.63794"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-02-7"
-     cx="398.44431"
+     cx="396.44431"
      cy="295.40536"
      rx="1.5"
      ry="1.25" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;letter-spacing:10px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="418.5762"
+     x="416.5762"
      y="336.87402"
      id="text32-7-8"><tspan
        sodipodi:role="line"
-       x="418.5762"
+       x="416.5762"
        y="336.87402"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:10px;word-spacing:6px;fill:#ffffff"
        id="tspan234-2"><tspan
@@ -226,18 +226,18 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:57.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0.41px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="419.64346"
+     x="417.64346"
      y="412.38864"
      id="text32-7-5"><tspan
        sodipodi:role="line"
-       x="419.64346"
+       x="417.64346"
        y="412.38864"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0.41px;word-spacing:6px;fill:#ffffff"
        id="tspan234-6">EMBUTIDAS IDES</tspan></text>
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-355"
-     cx="841.85297"
+     cx="839.85297"
      cy="418.24728"
      rx="1.5"
      ry="1.25" />
@@ -246,187 +246,187 @@
      id="rect211"
      width="415.45959"
      height="58.540726"
-     x="409.67761"
+     x="407.67761"
      y="454.2283" />
   <rect
      style="fill:#ffffff;stroke-width:1.14094973"
      id="rect205"
      width="415.24323"
      height="223.58342"
-     x="410.74246"
+     x="408.74246"
      y="531.13153" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-5"
-     cx="423.90372"
+     cx="421.90372"
      cy="730.54022"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-52"
-     cx="636.55267"
+     cx="634.55267"
      cy="668.77545"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-7"
-     cx="574.23438"
+     cx="572.23438"
      cy="668.77545"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390"
-     cx="556.90369"
+     cx="554.90369"
      cy="748.04022"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-85"
-     cx="543.52881"
+     cx="541.52881"
      cy="703.82513"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-1"
-     cx="435.52881"
+     cx="433.52881"
      cy="516.32513"
      rx="1.5"
      ry="1.25" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:34.66666794px;line-height:1.04999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="796.85706"
+     x="794.85706"
      y="494.86502"
      id="text44-5"><tspan
        sodipodi:role="line"
-       x="796.85706"
+       x="794.85706"
        y="494.86502"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;text-align:end;text-anchor:end"
        id="tspan161">MDA e Compiladores</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="805.41333"
+     x="803.41333"
      y="554.77026"
      id="text52-6"><tspan
        sodipodi:role="line"
-       x="810.85083"
+       x="808.85083"
        y="554.77026"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end"
        id="tspan194">Utiliza conceitos de MDA e </tspan><tspan
        sodipodi:role="line"
-       x="810.85083"
+       x="808.85083"
        y="585.6662"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end"
        id="tspan8455">compiladores sobre o código COBOL. </tspan><tspan
        sodipodi:role="line"
-       x="810.85083"
+       x="808.85083"
        y="616.56213"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end"
        id="tspan9138">São realizadas análises léxica, sintática e </tspan><tspan
        sodipodi:role="line"
-       x="810.85083"
-       y="647.45801"
+       x="808.85083"
+       y="647.45807"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end"
        id="tspan9146">semântica para criação de um modelo  </tspan><tspan
        sodipodi:role="line"
-       x="810.85083"
-       y="678.35394"
+       x="808.85083"
+       y="678.354"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end"
        id="tspan9154">que, posteriormente, é utilizado para a </tspan><tspan
        sodipodi:role="line"
-       x="810.85083"
+       x="808.85083"
        y="709.24988"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end"
        id="tspan8483">geração do código em linguagem alvo </tspan><tspan
        sodipodi:role="line"
-       x="805.41333"
+       x="803.41333"
        y="740.14581"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end"
        id="tspan8493">(PL/SQL e Java).</tspan></text>
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-35"
-     cx="376.60062"
+     cx="374.60062"
      cy="615.70502"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-7"
-     cx="341.47202"
+     cx="339.47202"
      cy="469.70169"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-0"
-     cx="-4.2133431"
+     cx="-6.2133431"
      cy="692.3078"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-3"
-     cx="136.30113"
+     cx="134.30113"
      cy="600.09521"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-84"
-     cx="407.4501"
+     cx="405.4501"
      cy="496.90488"
      rx="1.5"
      ry="1.25" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 387.54511,488.47691 c 0,0 1.5,0.25 0,0 z"
+     d="m 385.54511,488.47691 c 0,0 1.5,0.25 0,0 z"
      id="path5218"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 385.29511,494.97691 1.5,-0.5 z"
+     d="m 383.29511,494.97691 1.5,-0.5 z"
      id="path5220"
      inkscape:connector-curvature="0" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-02-1-9"
-     cx="53.764252"
+     cx="51.764252"
      cy="627.7135"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-02-7-6"
-     cx="-10.642422"
+     cx="-12.642422"
      cy="576.4809"
      rx="1.5"
      ry="1.25" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:-1.40999997px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="18.986029"
+     x="16.986029"
      y="543.75952"
      id="text32-7-5-5-0"><tspan
        sodipodi:role="line"
-       x="18.986029"
+       x="16.986029"
        y="543.75952"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:-1.40999997px;word-spacing:6px;fill:#ffffff"
        id="tspan234-6-7-4">UTILIZA CONCEITOS</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;letter-spacing:5px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="15.571385"
+     x="13.571384"
      y="631.32983"
      id="text32-7-8-2"><tspan
        sodipodi:role="line"
-       x="15.571385"
+       x="13.571384"
        y="631.32983"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:5px;word-spacing:6px;fill:#ffffff"
        id="tspan234-2-9"><tspan
@@ -435,11 +435,11 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.25;font-family:sans-serif;letter-spacing:-1.00999999px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="20.287786"
+     x="18.287786"
      y="695.89703"
      id="text32-7-5-5"><tspan
        sodipodi:role="line"
-       x="20.287786"
+       x="18.287786"
        y="695.89703"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:-1.00999999px;word-spacing:6px;fill:#ffffff"
        id="tspan234-6-7">COMPILADORES</tspan></text>
@@ -448,109 +448,109 @@
      id="rect37-1"
      width="400.58258"
      height="58.529613"
-     x="4.1125541"
+     x="2.1125541"
      y="763.21051" />
   <rect
      style="fill:#ffffff;stroke-width:2.43114853"
      id="rect37-3-5"
      width="402.36621"
      height="201.39375"
-     x="4.4125113"
+     x="2.4125113"
      y="834.33893" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-07-7"
-     cx="12.712499"
+     cx="10.712499"
      cy="954.23492"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-31-4"
-     cx="413.21243"
+     cx="411.21243"
      cy="970.23492"
      rx="1.5"
      ry="1.25" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:34.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="30.509771"
+     x="28.509773"
      y="806.80511"
      id="text44-8"><tspan
        sodipodi:role="line"
        id="tspan42-8"
-       x="30.509771"
+       x="28.509773"
        y="806.80511"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact">Geração de código nativo</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="31.409506"
+     x="29.409508"
      y="865.79718"
      id="text52-0"><tspan
        sodipodi:role="line"
        id="tspan50-7"
-       x="31.409506"
+       x="29.409508"
        y="865.79718"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">Geração de código nativo da baixa</tspan><tspan
        sodipodi:role="line"
-       x="31.409506"
+       x="29.409508"
        y="896.69312"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="tspan8598">plataforma, sem &quot;emulação&quot;. </tspan><tspan
        sodipodi:role="line"
-       x="31.409506"
+       x="29.409508"
        y="927.58905"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="tspan8600">Através de comandos COBOL (JBOL), </tspan><tspan
        sodipodi:role="line"
-       x="31.409506"
+       x="29.409508"
        y="958.48499"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="tspan8602">que trás como vantagens maior </tspan><tspan
        sodipodi:role="line"
-       x="31.409506"
+       x="29.409508"
        y="989.38092"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="tspan8604">performance e maior facilidade de </tspan><tspan
        sodipodi:role="line"
-       x="31.409506"
+       x="29.409508"
        y="1020.2768"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="tspan6559-1">manutenção de código convertido.</tspan></text>
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-5"
-     cx="860.87531"
+     cx="858.87531"
      cy="985.82684"
      rx="1.5"
      ry="1.25" />
   <ellipse
      style="opacity:0.99800002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57746474"
      id="path5355-390-0-8"
-     cx="389.93234"
+     cx="387.93234"
      cy="872.75653"
      rx="1.5"
      ry="1.25" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:-5.44999981px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="417.01889"
+     x="415.01889"
      y="888.21771"
      id="text32-7-5-5-4"><tspan
        sodipodi:role="line"
-       x="417.01889"
+       x="415.01889"
        y="888.21771"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:-5.44999981px;word-spacing:6px;fill:#ffffff"
        id="tspan234-6-7-2">CÓDIGO NÁTIVO</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:-5.5px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="419.26248"
+     x="417.26248"
      y="977.96515"
      id="text32-7-5-5-4-6"><tspan
        sodipodi:role="line"
-       x="419.26248"
+       x="417.26248"
        y="977.96515"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:-5.5px;word-spacing:6px;fill:#ffffff"
        id="tspan234-6-7-2-1">SEM EMULAÇÃO</tspan></text>
@@ -630,7 +630,7 @@
        id="tspan8746">A conversão para PL/SQL torna menor a </tspan><tspan
        sodipodi:role="line"
        x="807.14954"
-       y="1185.4978"
+       y="1185.4977"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end"
        id="tspan8750">curva de aprendizado para os </tspan><tspan
        sodipodi:role="line"
@@ -640,7 +640,7 @@
        id="tspan8752">desenvolvedores COBOL. Permitindo</tspan><tspan
        sodipodi:role="line"
        x="807.14954"
-       y="1247.2897"
+       y="1247.2896"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end"
        id="tspan8754">manter a equipe de desenvolvimento </tspan><tspan
        sodipodi:role="line"
@@ -864,13 +864,13 @@
      sodipodi:nodetypes="cccccc" />
   <path
      style="fill:#b3b3b3;stroke:#000000;stroke-width:1.58909762px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 207.56747,1540.3072 c 9.89256,-9.4863 -36.24519,-66.9147 -77.36835,-19.1428 -2.7479,-10.7314 -38.317036,-35.3731 -65.594739,-7.8825 -2.378914,-49.3362 -42.4509,-52.1524 -63.91295199,-52.3613 L -4.914905,1536.366 c 10.517973,-10.6813 14.641979,11.2442 20.743545,23.0839 56.140344,-26.8773 83.021454,9.2751 99.79786,23.3298 -8.86757,-1.4059 1.4075,-13.492 4.71718,-21.6917 16.11747,-13.6452 28.74627,-15.0274 42.02185,-18.6833 l 18.23586,9.5548 c -5.60666,2.4229 -5.68838,2.4581 26.96608,-11.6523 z"
+     d="m 207.56747,1540.3072 c 9.89256,-9.4863 -36.24519,-66.9147 -77.36835,-19.1428 -2.7479,-10.7314 -38.317036,-35.3731 -65.594739,-7.8825 -2.378914,-49.3362 -42.4509,-52.1524 -63.912952,-52.3613 l -5.606334,75.4454 c 10.517973,-10.6813 14.641979,11.2442 20.743545,23.0839 56.140344,-26.8773 83.02145,9.2751 99.79786,23.3298 -8.86757,-1.4059 1.4075,-13.492 4.71718,-21.6917 16.11747,-13.6452 28.74627,-15.0274 42.02185,-18.6833 l 18.23586,9.5548 c -5.60666,2.4229 -5.68838,2.4581 26.96608,-11.6523 z"
      id="path5195"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccc" />
   <path
      style="fill:#333333;stroke:#000000;stroke-width:1.58909762px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.5070422"
-     d="m 0.69142901,1460.9206 v -40.5377 l 2.80325999,1.126 c 20.587036,-15.883 61.203887,-25.8705 76.807605,29.2773 21.218796,-3.0187 30.811056,3.0464 47.654366,23.0841 l 12.89481,-6.7564 c -5.39925,-11.5278 -8.56412,-24.9253 -5.04579,-43.9159 -27.57359,-9.1755 -21.52071,-25.105 -12.33415,-41.6639 -12.70836,-17.942 -1.10957,-16.3558 -0.56066,-23.6469 l -5.04569,-4.5043 10.06335,-2.6502 2.27059,20.104 6.16712,-2.8152 -3.36389,-17.4536 8.97035,-2.8152 v 7.3193 c 12.8449,3.1779 9.33772,11.0478 12.89471,16.8907 21.4983,16.1573 11.98713,20.337 16.2584,29.8403 42.79421,7.8025 36.80924,33.1 39.80546,55.1765 29.65077,5.1676 37.04876,19.2742 44.85125,33.2184 11.3695,-5.9089 23.01789,-10.9771 43.16925,9.5714 13.02531,-11.8229 20.30221,-4.4027 29.15332,-2.2521 11.35609,-24.0137 29.44141,-17.0672 39.24469,-3.3781 31.96544,-9.2901 23.64473,7.5979 33.07777,12.9495 -81.33864,-3.6052 -135.71201,16.8857 -192.86008,33.2186 6.00625,-27.2774 -46.31203,-56.2197 -77.36835,-19.1428 -16.24572,-18.9924 -34.582016,-31.8963 -65.594739,-7.8825 -2.634998,-43.3449 -30.149769,-52.186 -63.91295199,-52.3613 z"
+     d="m 0.691429,1460.9206 v -40.5377 l 2.80326,1.126 c 20.587036,-15.883 61.203887,-25.8705 76.807605,29.2773 21.218796,-3.0187 30.811056,3.0464 47.654366,23.0841 l 12.89481,-6.7564 c -5.39925,-11.5278 -8.56412,-24.9253 -5.04579,-43.9159 -27.57359,-9.1755 -21.52071,-25.105 -12.33415,-41.6639 -12.70836,-17.942 -1.10957,-16.3558 -0.56066,-23.6469 l -5.04569,-4.5043 10.06335,-2.6502 2.27059,20.104 6.16712,-2.8152 -3.36389,-17.4536 8.97035,-2.8152 v 7.3193 c 12.8449,3.1779 9.33772,11.0478 12.89471,16.8907 21.4983,16.1573 11.98713,20.337 16.2584,29.8403 42.79421,7.8025 36.80924,33.1 39.80546,55.1765 29.65077,5.1676 37.04876,19.2742 44.85125,33.2184 11.3695,-5.9089 23.01789,-10.9771 43.16925,9.5714 13.02531,-11.8229 20.30221,-4.4027 29.15332,-2.2521 11.35609,-24.0137 29.44141,-17.0672 39.24469,-3.3781 31.96544,-9.2901 23.64473,7.5979 33.07777,12.9495 -81.33864,-3.6052 -135.71201,16.8857 -192.86008,33.2186 6.00625,-27.2774 -46.31203,-56.2197 -77.36835,-19.1428 -16.24572,-18.9924 -34.582016,-31.8963 -65.594739,-7.8825 -2.634998,-43.3449 -30.149769,-52.186 -63.912952,-52.3613 z"
      id="path5197"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
@@ -882,7 +882,7 @@
      sodipodi:nodetypes="ccccccccccc" />
   <path
      style="fill:none;stroke:#ffffff;stroke-width:1.58909762px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 117.86518,1353.3829 5.04569,4.5043 c -5.02043,6.5748 -10.84576,12.9477 0.56066,23.6469 -24.106716,34.7249 7.27711,39.5748 12.33415,41.6639 -7.35064,23.0118 -0.98378,33.3074 5.04579,43.9159 -6.06168,1.6619 -9.99586,4.0358 -12.89481,6.7564 -7.8478,-17.89 -19.88126,-30.4702 -47.654366,-23.0841 -14.733479,-62.6565 -69.971057,-42.1122 -76.807605,-29.2773"
+     d="m 117.86518,1353.3829 5.04569,4.5043 c -5.02043,6.5748 -10.84576,12.9477 0.56066,23.6469 -24.10672,34.7249 7.27711,39.5748 12.33415,41.6639 -7.35064,23.0118 -0.98378,33.3074 5.04579,43.9159 -6.06168,1.6619 -9.99586,4.0358 -12.89481,6.7564 -7.8478,-17.89 -19.88126,-30.4702 -47.654366,-23.0841 -14.733479,-62.6565 -69.971057,-42.1122 -76.807605,-29.2773"
      id="path5216"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccc" />
@@ -908,7 +908,7 @@
      inkscape:connector-curvature="0" />
   <path
      style="fill:#1a1a1a;stroke:#000000;stroke-width:1.58909762px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.16901407"
-     d="m 150.869,1338.5681 c -2.33235,-19.7386 -1.36699,-40.0382 -21.8038,-64.4952 -8.93445,5.4454 -18.44931,9.3371 -30.525286,6.3699 0.39008,23.9076 -1.95393,36.7388 8.325076,68.0782 z"
+     d="m 150.869,1338.5681 c -2.33235,-19.7386 -1.36699,-40.0382 -21.8038,-64.4952 -8.93445,5.4454 -18.44931,9.3371 -30.52529,6.3699 0.39008,23.9076 -1.95393,36.7388 8.32508,68.0782 z"
      id="path5228"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
@@ -922,7 +922,7 @@
      transform="scale(-1,1)" />
   <path
      style="fill:#ffffff;stroke:#000000;stroke-width:1.58909762px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 129.0652,1274.0729 c -8.67713,3.9286 -16.75422,8.5801 -30.525286,6.3699 1.712906,-10.1824 6.710166,-14.8678 11.496496,-19.9059 13.30482,5.2112 16.0111,9.358 19.02879,13.536 z"
+     d="m 129.0652,1274.0729 c -8.67713,3.9286 -16.75422,8.5801 -30.52529,6.3699 1.71291,-10.1824 6.71017,-14.8678 11.4965,-19.9059 13.30482,5.2112 16.0111,9.358 19.02879,13.536 z"
      id="path5232"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />

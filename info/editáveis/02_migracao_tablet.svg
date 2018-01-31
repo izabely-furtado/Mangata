@@ -45,8 +45,8 @@
      id="namedview4794"
      showgrid="false"
      inkscape:zoom="0.56261919"
-     inkscape:cx="406.30957"
-     inkscape:cy="981.91587"
+     inkscape:cx="293.00299"
+     inkscape:cy="228.78965"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -306,12 +306,12 @@
        x="798.51868"
        y="643.16736"
        id="tspan60"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end">automatizad, que interpreta o código </tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end">automatizada, que interpreta o </tspan><tspan
        sodipodi:role="line"
        x="793.08118"
        y="674.06329"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end"
-       id="tspan6559">COBOL e gera PL/SQL</tspan></text>
+       id="tspan6559">código COBOL e gera PL/SQL</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:34.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"

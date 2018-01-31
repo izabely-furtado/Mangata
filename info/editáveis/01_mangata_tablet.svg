@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,8 +46,8 @@
      showgrid="false"
      showguides="false"
      inkscape:zoom="0.82613734"
-     inkscape:cx="483.28294"
-     inkscape:cy="990.95473"
+     inkscape:cx="355.48491"
+     inkscape:cy="506.77373"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -429,23 +429,28 @@
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="23.564524"
-     y="771.03149"
+     y="755.03149"
      id="text52-6-1"><tspan
        sodipodi:role="line"
        x="23.564524"
-       y="771.03149"
+       y="755.03149"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold'"
-       id="tspan184-8">Não é apenas mudar, é se daptar/evoluir.</tspan><tspan
+       id="tspan184-8">Não é apenas mudar, é se daptar/</tspan><tspan
        sodipodi:role="line"
        x="23.564524"
-       y="801.92743"
+       y="785.92743"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold'"
-       id="tspan519">Pois para sobreviver no mercado é </tspan><tspan
+       id="tspan519">evoluir. Pois para sobreviver no </tspan><tspan
        sodipodi:role="line"
        x="23.564524"
-       y="832.82336"
+       y="816.82336"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold'"
-       id="tspan198-2">necessário se adaptar a ele.</tspan></text>
+       id="tspan198-2">mercado é necessário se adaptar a </tspan><tspan
+       sodipodi:role="line"
+       x="23.564524"
+       y="847.7193"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold'"
+       id="tspan4831">ele.</tspan></text>
   <rect
      style="fill:#ffffff;stroke-width:0.94934362"
      id="rect532"

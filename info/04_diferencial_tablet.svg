@@ -10,76 +10,76 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <rect x="6" y="4" width="819.2" height="1652.3" opacity=".998" stroke="#000" stroke-opacity=".57746" stroke-width="10"/>
+ <rect x="-25.148" y="4" width="850.35" height="1652.3" opacity=".998" stroke="#000" stroke-opacity=".57746" stroke-width="10.188"/>
  <g fill="#fff">
-  <ellipse cx="27.676" cy="170.22" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
-  <ellipse cx="273.12" cy="132.46" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
-  <rect x="5.2758" y="105.61" width="290.82" height="55.794" stroke-width="1.0617"/>
-  <ellipse cx="13.013" cy="405.84" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
-  <ellipse cx="413.51" cy="421.84" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
-  <rect x="4.4135" y="214.82" width="396.58" height="58.53" stroke-width="1.3012"/>
-  <rect x="4.7134" y="285.95" width="398.37" height="156.39" stroke-width="2.1317"/>
+  <ellipse cx="25.676" cy="170.22" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+  <ellipse cx="271.12" cy="132.46" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+  <rect x="3.2758" y="105.61" width="290.82" height="55.794" stroke-width="1.0617"/>
+  <ellipse cx="11.013" cy="405.84" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+  <ellipse cx="411.51" cy="421.84" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+  <rect x="2.4135" y="214.82" width="396.58" height="58.53" stroke-width="1.3012"/>
+  <rect x="2.7134" y="285.95" width="398.37" height="156.39" stroke-width="2.1317"/>
  </g>
  <g fill="#000000" letter-spacing="0px" word-spacing="0px">
-  <text x="27.971273" y="154.40355" font-family="sans-serif" font-size="53.333px" style="line-height:1.25" xml:space="preserve"><tspan x="27.971273" y="154.40355" font-family="Impact">DIFERENCIAL</tspan></text>
-  <text x="30.81069" y="258.41342" font-family="sans-serif" font-size="34.667px" style="line-height:1.25" xml:space="preserve"><tspan x="30.81069" y="258.41342" font-family="Impact">Sem IDEs</tspan></text>
-  <text x="31.710424" y="313.40549" font-family="Calibri" font-size="24px" style="line-height:1.25" xml:space="preserve"><tspan x="31.710424" y="313.40549">No nosso processo de migração não </tspan><tspan x="31.710424" y="344.30142">são embutidas IDEs, frameworks ou </tspan><tspan x="31.710424" y="375.19733">bibliotecas no código gerado, o que </tspan><tspan x="31.710424" y="406.09326">não cria dependência na sustentação </tspan><tspan x="31.710424" y="436.9892">pós conversão.</tspan></text>
+  <text x="25.971273" y="154.40355" font-family="sans-serif" font-size="53.333px" style="line-height:1.25" xml:space="preserve"><tspan x="25.971273" y="154.40355" font-family="Impact">DIFERENCIAL</tspan></text>
+  <text x="28.810692" y="258.41342" font-family="sans-serif" font-size="34.667px" style="line-height:1.25" xml:space="preserve"><tspan x="28.810692" y="258.41342" font-family="Impact">Sem IDEs</tspan></text>
+  <text x="29.710426" y="313.40549" font-family="Calibri" font-size="24px" style="line-height:1.25" xml:space="preserve"><tspan x="29.710426" y="313.40549">No nosso processo de migração não </tspan><tspan x="29.710426" y="344.30142">são embutidas IDEs, frameworks ou </tspan><tspan x="29.710426" y="375.19736">bibliotecas no código gerado, o que </tspan><tspan x="29.710426" y="406.09326">não cria dependência na sustentação </tspan><tspan x="29.710426" y="436.9892">pós conversão.</tspan></text>
  </g>
  <g fill="#fff" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3">
-  <ellipse cx="356.98" cy="278.71" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="458.88" cy="145.43" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="366.67" cy="114.69" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="184.44" cy="169.58" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="846.36" cy="292.48" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="462.85" cy="346.64" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="398.44" cy="295.41" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="354.98" cy="278.71" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="456.88" cy="145.43" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="364.67" cy="114.69" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="182.44" cy="169.58" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="844.36" cy="292.48" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="460.85" cy="346.64" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="396.44" cy="295.41" rx="1.5" ry="1.25" opacity=".998"/>
  </g>
- <text x="418.5762" y="336.87402" fill="#000000" font-family="sans-serif" font-size="96px" letter-spacing="10px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="418.5762" y="336.87402" fill="#ffffff" font-family="Impact" letter-spacing="10px" word-spacing="6px"><tspan letter-spacing="10px">NÃO SÃO</tspan></tspan></text>
- <text x="419.64346" y="412.38864" fill="#000000" font-family="sans-serif" font-size="57.333px" letter-spacing=".41px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="419.64346" y="412.38864" fill="#ffffff" font-family="Impact" letter-spacing=".41px" word-spacing="6px">EMBUTIDAS IDES</tspan></text>
+ <text x="416.5762" y="336.87402" fill="#000000" font-family="sans-serif" font-size="96px" letter-spacing="10px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="416.5762" y="336.87402" fill="#ffffff" font-family="Impact" letter-spacing="10px" word-spacing="6px"><tspan letter-spacing="10px">NÃO SÃO</tspan></tspan></text>
+ <text x="417.64346" y="412.38864" fill="#000000" font-family="sans-serif" font-size="57.333px" letter-spacing=".41px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="417.64346" y="412.38864" fill="#ffffff" font-family="Impact" letter-spacing=".41px" word-spacing="6px">EMBUTIDAS IDES</tspan></text>
  <g fill="#fff">
-  <ellipse cx="841.85" cy="418.25" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
-  <rect x="409.68" y="454.23" width="415.46" height="58.541" stroke-width=".79206"/>
-  <rect x="410.74" y="531.13" width="415.24" height="223.58" stroke-width="1.1409"/>
+  <ellipse cx="839.85" cy="418.25" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+  <rect x="407.68" y="454.23" width="415.46" height="58.541" stroke-width=".79206"/>
+  <rect x="408.74" y="531.13" width="415.24" height="223.58" stroke-width="1.1409"/>
   <g stroke="#fff" stroke-opacity=".57746" stroke-width="2.3">
-   <ellipse cx="423.9" cy="730.54" rx="1.5" ry="1.25" opacity=".998"/>
-   <ellipse cx="636.55" cy="668.78" rx="1.5" ry="1.25" opacity=".998"/>
-   <ellipse cx="574.23" cy="668.78" rx="1.5" ry="1.25" opacity=".998"/>
-   <ellipse cx="556.9" cy="748.04" rx="1.5" ry="1.25" opacity=".998"/>
-   <ellipse cx="543.53" cy="703.83" rx="1.5" ry="1.25" opacity=".998"/>
-   <ellipse cx="435.53" cy="516.33" rx="1.5" ry="1.25" opacity=".998"/>
+   <ellipse cx="421.9" cy="730.54" rx="1.5" ry="1.25" opacity=".998"/>
+   <ellipse cx="634.55" cy="668.78" rx="1.5" ry="1.25" opacity=".998"/>
+   <ellipse cx="572.23" cy="668.78" rx="1.5" ry="1.25" opacity=".998"/>
+   <ellipse cx="554.9" cy="748.04" rx="1.5" ry="1.25" opacity=".998"/>
+   <ellipse cx="541.53" cy="703.83" rx="1.5" ry="1.25" opacity=".998"/>
+   <ellipse cx="433.53" cy="516.33" rx="1.5" ry="1.25" opacity=".998"/>
   </g>
  </g>
- <text x="796.85706" y="494.86502" fill="#000000" font-family="sans-serif" font-size="34.667px" letter-spacing="0px" word-spacing="0px" style="line-height:1.04999995" xml:space="preserve"><tspan x="796.85706" y="494.86502" font-family="Impact" text-align="end" text-anchor="end">MDA e Compiladores</tspan></text>
- <text x="805.41333" y="554.77026" fill="#000000" font-family="Calibri" font-size="24px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="810.85083" y="554.77026" text-align="end">Utiliza conceitos de MDA e </tspan><tspan x="810.85083" y="585.6662" text-align="end">compiladores sobre o código COBOL. </tspan><tspan x="810.85083" y="616.56213" text-align="end">São realizadas análises léxica, sintática e </tspan><tspan x="810.85083" y="647.45801" text-align="end">semântica para criação de um modelo  </tspan><tspan x="810.85083" y="678.35394" text-align="end">que, posteriormente, é utilizado para a </tspan><tspan x="810.85083" y="709.24988" text-align="end">geração do código em linguagem alvo </tspan><tspan x="805.41333" y="740.14581" text-align="end">(PL/SQL e Java).</tspan></text>
+ <text x="794.85706" y="494.86502" fill="#000000" font-family="sans-serif" font-size="34.667px" letter-spacing="0px" word-spacing="0px" style="line-height:1.04999995" xml:space="preserve"><tspan x="794.85706" y="494.86502" font-family="Impact" text-align="end" text-anchor="end">MDA e Compiladores</tspan></text>
+ <text x="803.41333" y="554.77026" fill="#000000" font-family="Calibri" font-size="24px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="808.85083" y="554.77026" text-align="end">Utiliza conceitos de MDA e </tspan><tspan x="808.85083" y="585.6662" text-align="end">compiladores sobre o código COBOL. </tspan><tspan x="808.85083" y="616.56213" text-align="end">São realizadas análises léxica, sintática e </tspan><tspan x="808.85083" y="647.45807" text-align="end">semântica para criação de um modelo  </tspan><tspan x="808.85083" y="678.354" text-align="end">que, posteriormente, é utilizado para a </tspan><tspan x="808.85083" y="709.24988" text-align="end">geração do código em linguagem alvo </tspan><tspan x="803.41333" y="740.14581" text-align="end">(PL/SQL e Java).</tspan></text>
  <g fill="#fff" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3">
-  <ellipse cx="376.6" cy="615.71" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="341.47" cy="469.7" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="-4.2133" cy="692.31" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="136.3" cy="600.1" rx="1.5" ry="1.25" opacity=".998"/>
-  <ellipse cx="407.45" cy="496.9" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="374.6" cy="615.71" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="339.47" cy="469.7" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="-6.2133" cy="692.31" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="134.3" cy="600.1" rx="1.5" ry="1.25" opacity=".998"/>
+  <ellipse cx="405.45" cy="496.9" rx="1.5" ry="1.25" opacity=".998"/>
  </g>
- <path d="m387.55 488.48s1.5 0.25 0 0z" fill="none" stroke="#000" stroke-width="1px"/>
- <path d="m385.3 494.98 1.5-0.5z" fill="none" stroke="#000" stroke-width="1px"/>
- <ellipse cx="53.764" cy="627.71" rx="1.5" ry="1.25" fill="#fff" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
- <ellipse cx="-10.642" cy="576.48" rx="1.5" ry="1.25" fill="#fff" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+ <path d="m385.55 488.48s1.5 0.25 0 0z" fill="none" stroke="#000" stroke-width="1px"/>
+ <path d="m383.3 494.98 1.5-0.5z" fill="none" stroke="#000" stroke-width="1px"/>
+ <ellipse cx="51.764" cy="627.71" rx="1.5" ry="1.25" fill="#fff" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+ <ellipse cx="-12.642" cy="576.48" rx="1.5" ry="1.25" fill="#fff" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
  <g fill="#000000" font-family="sans-serif" word-spacing="0px">
-  <text x="18.986029" y="543.75952" font-size="53.333px" letter-spacing="-1.41px" style="line-height:1.25" xml:space="preserve"><tspan x="18.986029" y="543.75952" fill="#ffffff" font-family="Impact" letter-spacing="-1.41px" word-spacing="6px">UTILIZA CONCEITOS</tspan></text>
-  <text x="15.571385" y="631.32983" font-size="96px" letter-spacing="5px" style="line-height:1.25" xml:space="preserve"><tspan x="15.571385" y="631.32983" fill="#ffffff" font-family="Impact" letter-spacing="5px" word-spacing="6px"><tspan letter-spacing="5px">DE MDA E</tspan></tspan></text>
-  <text x="20.287786" y="695.89703" font-size="64px" letter-spacing="-1.01px" style="line-height:1.25" xml:space="preserve"><tspan x="20.287786" y="695.89703" fill="#ffffff" font-family="Impact" letter-spacing="-1.01px" word-spacing="6px">COMPILADORES</tspan></text>
+  <text x="16.986029" y="543.75952" font-size="53.333px" letter-spacing="-1.41px" style="line-height:1.25" xml:space="preserve"><tspan x="16.986029" y="543.75952" fill="#ffffff" font-family="Impact" letter-spacing="-1.41px" word-spacing="6px">UTILIZA CONCEITOS</tspan></text>
+  <text x="13.571384" y="631.32983" font-size="96px" letter-spacing="5px" style="line-height:1.25" xml:space="preserve"><tspan x="13.571384" y="631.32983" fill="#ffffff" font-family="Impact" letter-spacing="5px" word-spacing="6px"><tspan letter-spacing="5px">DE MDA E</tspan></tspan></text>
+  <text x="18.287786" y="695.89703" font-size="64px" letter-spacing="-1.01px" style="line-height:1.25" xml:space="preserve"><tspan x="18.287786" y="695.89703" fill="#ffffff" font-family="Impact" letter-spacing="-1.01px" word-spacing="6px">COMPILADORES</tspan></text>
  </g>
  <g fill="#fff">
-  <rect x="4.1126" y="763.21" width="400.58" height="58.53" stroke-width="1.3077"/>
-  <rect x="4.4125" y="834.34" width="402.37" height="201.39" stroke-width="2.4311"/>
-  <ellipse cx="12.712" cy="954.23" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
-  <ellipse cx="413.21" cy="970.23" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+  <rect x="2.1126" y="763.21" width="400.58" height="58.53" stroke-width="1.3077"/>
+  <rect x="2.4125" y="834.34" width="402.37" height="201.39" stroke-width="2.4311"/>
+  <ellipse cx="10.712" cy="954.23" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+  <ellipse cx="411.21" cy="970.23" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
  </g>
  <g>
-  <text x="30.509771" y="806.80511" fill="#000000" font-family="sans-serif" font-size="34.667px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="30.509771" y="806.80511" font-family="Impact">Geração de código nativo</tspan></text>
-  <text x="31.409506" y="865.79718" fill="#000000" font-family="Calibri" font-size="24px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="31.409506" y="865.79718">Geração de código nativo da baixa</tspan><tspan x="31.409506" y="896.69312">plataforma, sem "emulação". </tspan><tspan x="31.409506" y="927.58905">Através de comandos COBOL (JBOL), </tspan><tspan x="31.409506" y="958.48499">que trás como vantagens maior </tspan><tspan x="31.409506" y="989.38092">performance e maior facilidade de </tspan><tspan x="31.409506" y="1020.2768">manutenção de código convertido.</tspan></text>
-  <ellipse cx="860.88" cy="985.83" rx="1.5" ry="1.25" fill="#fff" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
-  <ellipse cx="389.93" cy="872.76" rx="1.5" ry="1.25" fill="#fff" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
-  <text x="417.01889" y="888.21771" fill="#000000" font-family="sans-serif" font-size="74.667px" letter-spacing="-5.45px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="417.01889" y="888.21771" fill="#ffffff" font-family="Impact" letter-spacing="-5.45px" word-spacing="6px">CÓDIGO NÁTIVO</tspan></text>
-  <text x="419.26248" y="977.96515" fill="#000000" font-family="sans-serif" font-size="74.667px" letter-spacing="-5.5px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="419.26248" y="977.96515" fill="#ffffff" font-family="Impact" letter-spacing="-5.5px" word-spacing="6px">SEM EMULAÇÃO</tspan></text>
+  <text x="28.509773" y="806.80511" fill="#000000" font-family="sans-serif" font-size="34.667px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="28.509773" y="806.80511" font-family="Impact">Geração de código nativo</tspan></text>
+  <text x="29.409508" y="865.79718" fill="#000000" font-family="Calibri" font-size="24px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="29.409508" y="865.79718">Geração de código nativo da baixa</tspan><tspan x="29.409508" y="896.69312">plataforma, sem "emulação". </tspan><tspan x="29.409508" y="927.58905">Através de comandos COBOL (JBOL), </tspan><tspan x="29.409508" y="958.48499">que trás como vantagens maior </tspan><tspan x="29.409508" y="989.38092">performance e maior facilidade de </tspan><tspan x="29.409508" y="1020.2768">manutenção de código convertido.</tspan></text>
+  <ellipse cx="858.88" cy="985.83" rx="1.5" ry="1.25" fill="#fff" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+  <ellipse cx="387.93" cy="872.76" rx="1.5" ry="1.25" fill="#fff" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
+  <text x="415.01889" y="888.21771" fill="#000000" font-family="sans-serif" font-size="74.667px" letter-spacing="-5.45px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="415.01889" y="888.21771" fill="#ffffff" font-family="Impact" letter-spacing="-5.45px" word-spacing="6px">CÓDIGO NÁTIVO</tspan></text>
+  <text x="417.26248" y="977.96515" fill="#000000" font-family="sans-serif" font-size="74.667px" letter-spacing="-5.5px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="417.26248" y="977.96515" fill="#ffffff" font-family="Impact" letter-spacing="-5.5px" word-spacing="6px">SEM EMULAÇÃO</tspan></text>
  </g>
  <g fill="#fff">
   <ellipse cx="363.88" cy="1191.1" rx="1.5" ry="1.25" opacity=".998" stroke="#fff" stroke-opacity=".57746" stroke-width="2.3"/>
@@ -95,7 +95,7 @@
   </g>
  </g>
  <text x="796.4491" y="1090.11" fill="#000000" font-family="sans-serif" font-size="34.667px" letter-spacing="0px" word-spacing="0px" style="line-height:1.04999995" xml:space="preserve"><tspan x="796.4491" y="1090.11" font-family="Impact" text-align="end" text-anchor="end">Curba de Aprendizagem</tspan></text>
- <text x="801.71204" y="1154.6018" fill="#000000" font-family="Calibri" font-size="24px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="807.14954" y="1154.6018" text-align="end">A conversão para PL/SQL torna menor a </tspan><tspan x="807.14954" y="1185.4978" text-align="end">curva de aprendizado para os </tspan><tspan x="801.71204" y="1216.3937" text-align="end">desenvolvedores COBOL. Permitindo</tspan><tspan x="807.14954" y="1247.2897" text-align="end">manter a equipe de desenvolvimento </tspan><tspan x="807.14954" y="1278.1855" text-align="end">atual após a migração da plataforma. </tspan></text>
+ <text x="801.71204" y="1154.6018" fill="#000000" font-family="Calibri" font-size="24px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="807.14954" y="1154.6018" text-align="end">A conversão para PL/SQL torna menor a </tspan><tspan x="807.14954" y="1185.4977" text-align="end">curva de aprendizado para os </tspan><tspan x="801.71204" y="1216.3937" text-align="end">desenvolvedores COBOL. Permitindo</tspan><tspan x="807.14954" y="1247.2896" text-align="end">manter a equipe de desenvolvimento </tspan><tspan x="807.14954" y="1278.1855" text-align="end">atual após a migração da plataforma. </tspan></text>
  <g fill="#fff" stroke="#fff" stroke-opacity=".57746">
   <g stroke-width="2.2951">
    <ellipse transform="scale(-1,1)" cx="-867.58" cy="1295.5" rx="1.4936" ry="1.25" opacity=".998"/>
